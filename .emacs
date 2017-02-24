@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ;; MELPA repositories:
 (require 'package)
 
@@ -47,3 +48,6 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+=======
+
+>>>>>>> 33a46a4ce3892b2628aa035999edfdbb99d74698
